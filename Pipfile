@@ -1,11 +1,11 @@
-[[source]]
+[source]]
 url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
 [packages]
-bs4 = "0.0.1"
-ipdb = "0.13.9"
+beautifulsuop4="*"
+ipdb="*"
 
 [dev-packages]
 
